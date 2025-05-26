@@ -16,7 +16,10 @@ AI/ML Engineer and Quality Assurance Specialist with 3+ years of professional ex
 - [Rigveda Network Visualization](https://github.com/AshaShah/rigveda-visualization) - D3.js interactive tool for Vedic texts
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AshaShah&show_icons=true&theme=radical)
+[![Asha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshaShah&show_icons=true&theme=radical)](https://github.com/AshaShah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshaShah&layout=compact&theme=radical)](https://github.com/AshaShah)
+
+![Asha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AshaShah&theme=react-dark)
 
 ## 📫 How to reach me
 - Email: asha.shah228@gmail.com
