@@ -10,10 +10,10 @@ AI/ML Engineer and Quality Assurance Specialist with 3+ years of professional ex
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ## 🌟 Featured Projects
+- [Rigveda Network Visualization](https://github.com/AshaShah/RikNatra) - D3.js interactive tool for Vedic texts
 - [Blood Cancer Detection Using CNN](https://github.com/AshaShah/Blood-Cancer-Prediction-Using-CNN) - Achieved 78.04% accuracy with TensorFlow
 - [Malaria Detection with AlexNet & VGG-16]- 92% precision classification
 - [Hotel Booking Portal]((https://github.com/AshaShah/HotelHarshNC) - React application with 25% performance improvement
-- [Rigveda Network Visualization] - D3.js interactive tool for Vedic texts
 
 ## 📊 GitHub Stats
 [![Asha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshaShah&show_icons=true&theme=radical)](https://github.com/AshaShah)
