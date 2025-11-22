@@ -3,6 +3,7 @@
 AI/ML Engineer and Quality Assurance Specialist with 3+ years of professional experience building intelligent systems and ensuring software quality.
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Playwright-informational?style=flat&logo=playwright&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
