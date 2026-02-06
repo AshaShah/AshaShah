@@ -1,6 +1,7 @@
 # Hi there, I'm Asha Shah 👋
 
 AI/ML Engineer and Quality Assurance Specialist with 3+ years of professional experience building intelligent systems and ensuring software quality.
+ISTQB® Certified Tester – Foundation Level (CTFL) [26-CTFL-00148-USA]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Playwright-informational?style=flat&logo=playwright&logoColor=white&color=2bbc8a)
